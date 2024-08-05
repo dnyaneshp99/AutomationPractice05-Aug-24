@@ -17,7 +17,7 @@ public class Example_if {
 		break;
 		
 		default : System.out.println("Enter valid Number");
-		
+		//comment to check git push
 		
 	}
 
